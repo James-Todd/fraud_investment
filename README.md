@@ -1,2 +1,2 @@
 # jbr_fraud_investment
-Repository of data underlying a working paper looking at the financial performance of investment portfolios formed using fraud detection models.
+Repository of models underlying a working paper looking at the financial performance of investment portfolios formed using fraud detection models. This repository contains five models trained to predict fraud, all five of which are used as part of an ensemble based on a simple averaging of predictions. The underlying data inside of these models has been removed as it was originally extracted from Bloomberg and Capital IQ.
